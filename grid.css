@@ -42,22 +42,29 @@
     grid-row: 2 / 9;
 }
 
-.policy{
+.essay{
     grid-column: 6 / 10;
     grid-row: 2 / 9;
     font-family: 'Helvetica';
     font-size: 13px;
 }
 
-.poetry{
+.furtherreading{ 
+    grid-column: 2 / 6;
+    grid-row: 2 / 9;
+    font-family: 'Helvetica';
+    font-size: 13px;
+}
+
+.policy{
     grid-column: 10 / 14;
     grid-row: 2 / 9;
     font-family: 'Helvetica';
     font-size: 13px;
 }
 
-.essay{
-    grid-column: 2 / 6;
+.poetry{
+    grid-column: 14 / 18;
     grid-row: 2 / 9;
     font-family: 'Helvetica';
     font-size: 13px;
@@ -138,3 +145,5 @@ a:active {font-style: oblique;}
 .submit-button{
     font-size: 15px;
     font-family: 'Helvetica'; 
+    
+
