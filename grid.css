@@ -114,8 +114,9 @@ h2 {
 h3 {
     color: black;
     font-family: 'Helvetica';
-    padding: 10px;
+    padding: 0px;
     font-size: 14px;
+    margin: 0px;
 }
 
 .outside-links {
@@ -138,7 +139,7 @@ h3 {
 }
 
 a:link {color: black; text-decoration: none; font-family: 'Helvetica';}
-a:visited {color: black;}
+a:visited {color: #0047AB;}
 a:hover {text-decoration: none;}
 a:active {font-style: oblique;}
 
