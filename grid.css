@@ -70,13 +70,6 @@
     font-size: 13px;
 }
 
-.poetry{
-    grid-column: 18 / 22;
-    grid-row: 2 / 9;
-    font-family: 'Helvetica';
-    font-size: 13px;
-}
-
 .self-portrait{
     grid-column: 2 / 3;
     grid-row: 2 / 6;
