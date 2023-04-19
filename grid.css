@@ -124,14 +124,14 @@ h3 {
 .links {
     padding-left: 0px;
     margin: 0px;
-    color: Navy;
+    color: Black;
     font-family: 'Helvetica';
     font-size: 15px;
     text-decoration: none;
     list-style: none;
 }
 
-a:link {color: Navy; text-decoration: none; font-family: 'Helvetica';}
+a:link {color: Black; text-decoration: none; font-family: 'Helvetica';}
 a:visited {color: Gray;}
 a:hover {text-decoration: none;}
 a:active {font-style: oblique;}
